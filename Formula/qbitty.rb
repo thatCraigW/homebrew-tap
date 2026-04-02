@@ -1,8 +1,8 @@
 class Qbitty < Formula
   desc "Terminal UI client for qBittorrent"
   homepage "https://github.com/thatCraigW/qBitty"
-  url "https://github.com/thatCraigW/qBitty/archive/refs/tags/v0.4.0.tar.gz"
-  sha256 "f29a29b5772f0c8b994c554fe82b448eef5bd4f50e74973f0b634631c81ad750"
+  url "https://github.com/thatCraigW/qBitty/archive/refs/tags/v0.5.0.tar.gz"
+  sha256 "bff9792fbe1ca18d59125b99df3517b4662666ee855d303f55e3786cc9184bb4"
   license "MIT"
 
   depends_on "go" => :build
